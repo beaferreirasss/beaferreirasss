@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beaferreirasss
+- 👋 Hi, I’m @beaferreirasss!
 - 👀 I’m interested in create apps and games
 - 🌱 I’m currently learning python, git, js and linux
 - 💞️ I’m Brazillian 
